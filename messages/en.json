@@ -1,0 +1,98 @@
+{
+  "app": {
+    "name": "JopMatch",
+    "tagline": "Find trusted professionals near you",
+    "description": "Connect with nearby professionals, freelancers, and service providers instantly."
+  },
+  "nav": {
+    "home": "Home",
+    "search": "Search",
+    "map": "Map",
+    "messages": "Messages",
+    "profile": "Profile"
+  },
+  "home": {
+    "greeting": "Hello",
+    "searchPlaceholder": "What service do you need?",
+    "nearYou": "Near You",
+    "popularServices": "Popular Services",
+    "topProfessionals": "Top Professionals",
+    "viewAll": "View All",
+    "locationAccess": "Enable Location",
+    "locationDescription": "Allow location access to discover professionals near you",
+    "enableLocation": "Allow Location Access",
+    "categories": {
+      "plumbing": "Plumbing",
+      "electrical": "Electrical",
+      "cleaning": "Cleaning",
+      "painting": "Painting",
+      "carpentry": "Carpentry",
+      "gardening": "Gardening",
+      "tutoring": "Tutoring",
+      "beauty": "Beauty",
+      "fitness": "Fitness",
+      "tech": "Tech Support",
+      "moving": "Moving",
+      "cooking": "Cooking"
+    }
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search professionals, services...",
+    "filters": "Filters",
+    "category": "Category",
+    "distance": "Distance",
+    "rating": "Rating",
+    "availability": "Availability",
+    "available": "Available Now",
+    "results": "results found",
+    "noResults": "No results found",
+    "clearFilters": "Clear Filters",
+    "applyFilters": "Apply Filters"
+  },
+  "profile": {
+    "title": "Profile",
+    "editProfile": "Edit Profile",
+    "services": "Services",
+    "reviews": "Reviews",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "call": "Call",
+    "verified": "Verified",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "memberSince": "Member since",
+    "distance": "away"
+  },
+  "auth": {
+    "login": "Log In",
+    "register": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "orContinueWith": "or continue with",
+    "google": "Continue with Google",
+    "facebook": "Continue with Facebook"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "done": "Done",
+    "seeMore": "See More",
+    "km": "km"
+  }
+}

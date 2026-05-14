@@ -1,0 +1,98 @@
+{
+  "app": {
+    "name": "JopMatch",
+    "tagline": "Encuentra profesionales de confianza cerca de ti",
+    "description": "Conecta con profesionales, freelancers y proveedores de servicios cercanos al instante."
+  },
+  "nav": {
+    "home": "Inicio",
+    "search": "Buscar",
+    "map": "Mapa",
+    "messages": "Mensajes",
+    "profile": "Perfil"
+  },
+  "home": {
+    "greeting": "Hola",
+    "searchPlaceholder": "¿Qué servicio necesitas?",
+    "nearYou": "Cerca de Ti",
+    "popularServices": "Servicios Populares",
+    "topProfessionals": "Profesionales Destacados",
+    "viewAll": "Ver Todo",
+    "locationAccess": "Activar Ubicación",
+    "locationDescription": "Permite el acceso a tu ubicación para descubrir profesionales cerca de ti",
+    "enableLocation": "Permitir Acceso a Ubicación",
+    "categories": {
+      "plumbing": "Gasfitería",
+      "electrical": "Electricidad",
+      "cleaning": "Limpieza",
+      "painting": "Pintura",
+      "carpentry": "Carpintería",
+      "gardening": "Jardinería",
+      "tutoring": "Clases Particulares",
+      "beauty": "Belleza",
+      "fitness": "Fitness",
+      "tech": "Soporte Técnico",
+      "moving": "Mudanzas",
+      "cooking": "Cocina"
+    }
+  },
+  "search": {
+    "title": "Buscar",
+    "placeholder": "Buscar profesionales, servicios...",
+    "filters": "Filtros",
+    "category": "Categoría",
+    "distance": "Distancia",
+    "rating": "Calificación",
+    "availability": "Disponibilidad",
+    "available": "Disponible Ahora",
+    "results": "resultados encontrados",
+    "noResults": "No se encontraron resultados",
+    "clearFilters": "Limpiar Filtros",
+    "applyFilters": "Aplicar Filtros"
+  },
+  "profile": {
+    "title": "Perfil",
+    "editProfile": "Editar Perfil",
+    "services": "Servicios",
+    "reviews": "Reseñas",
+    "portfolio": "Portafolio",
+    "about": "Acerca de",
+    "contact": "Contactar",
+    "whatsapp": "WhatsApp",
+    "call": "Llamar",
+    "verified": "Verificado",
+    "available": "Disponible",
+    "unavailable": "No Disponible",
+    "memberSince": "Miembro desde",
+    "distance": "de distancia"
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "fullName": "Nombre Completo",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes cuenta?",
+    "hasAccount": "¿Ya tienes cuenta?",
+    "orContinueWith": "o continuar con",
+    "google": "Continuar con Google",
+    "facebook": "Continuar con Facebook"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "retry": "Reintentar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "close": "Cerrar",
+    "back": "Volver",
+    "next": "Siguiente",
+    "done": "Listo",
+    "seeMore": "Ver Más",
+    "km": "km"
+  }
+}
